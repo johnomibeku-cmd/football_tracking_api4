@@ -1,0 +1,11 @@
+uploads/
+outputs/
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.pt
+__pycache__/
+.env
+*.pyc
+*.zip
